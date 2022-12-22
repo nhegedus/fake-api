@@ -28,7 +28,7 @@
             "isValid": true,
             "status": "processed (TODO)",
             "method": "mastercard (TODO)"
-        },
+        }
     ],
     "success": true,
     "failure": false,
